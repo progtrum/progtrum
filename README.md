@@ -1,51 +1,79 @@
+# 🔻 PROGTRUM OS // v.6.66 🔻
+
 <div align="center">
 
-# 🩸 WELCOME TO PIXEL HELL 🩸  
-### *"Rip and Code in 8 bits."*
+<img src="boot_sequence.gif" width="600">
 
-</div>
+## *"Rip and Code in 8 bits."*
+
+### 👾 SYSTEM PROFILE
+User:      PROGTRUM  
+Location:  Moscow, Sector H-13  
+Occupation: Neural Engineer / Musician  
+AI Kernel:  DOOMCORE v2.1  
+Status:    ONLINE | 🔥 CPU Temp: 666°C  
 
 ---
 
-<div align="center">
+<img src="lava.gif" width="100%">
 
-### 🧱 THE DOOMED MARINE: PROGTRUM
+### 🧠 NEURAL SYNTH INTERFACE
 
-🔥 Developer of Infernal Code & AI Rituals  
-🎸 Musician from the Depths of Moscow  
-💻 Merging Sound, Intelligence, and Fire  
-🌋 *“Every commit is a spark in the endless pit.”*
+🎧 *Listening to the Sound of Hell...*
 
+<img src="sound_visualizer.gif" width="500">
 
-<img src="lava.gif" width="1200" alt="Lava banner">
-</div>
+> “When sound becomes code, demons dance.”
 
 ---
 
-<img src="https://media.tenor.com/h6xE-n7cahUAAAAC/fire-wall.gif" width="100%" alt="Lava divider">
+<img src="smoke.gif" width="100%">
 
-<div align="center">
-
-### 🔫 ARSENAL OF CHAOS
-
-| Weapon | Power | Icon |
-|:------:|:------:|:------:|
-| Python | 💥💥💥💥💥 | <img src="https://media.tenor.com/LF0M5VgVQnIAAAAC/fireball-pixel.gif" width="32"> |
-| FastAPI | 💥💥💥💥 | <img src="https://media.tenor.com/GRa9QWXKnfwAAAAC/plasma-gun.gif" width="32"> |
-| Git | 💥💥💥 | <img src="https://media.tenor.com/f1XZCB5evdMAAAAC/bullet-pixel.gif" width="32"> |
-| Linux | 💥💥💥 | <img src="https://media.tenor.com/ZkFzLkE8KDMAAAAC/terminal-code.gif" width="32"> |
-
-</div>
+### 💻 TERMINAL LOGS
+> access /dev/hell_portal
+> deploying neural firestorm...
+> connection established [AI:DOOMCORE]
+> synthesizing codewave...
+> output: harmonic anomaly detected.
+> [SUCCESS] demons are coding back.
 
 ---
 
-<img src="https://media.tenor.com/yG35rWB6t6UAAAAC/pixel-smoke.gif" width="100%" alt="Smoke divider">
+<img src="skulls.gif" width="100%">
 
-<div align="center">
+### ⚙️ TOOLKIT
 
-### 💻 TERMINAL OF THE DAMNED
-```bash
-> git add souls
-> git commit -m "Purged 666 demons 🩸"
-> git push origin HELL
-> Deploying AI entity... [OK]
+| Tool | Function | Power |
+|:------:|:-------------|:------:|
+| 🐍 Python | Core neural weapon | 💥💥💥💥💥 |
+| ⚡ FastAPI | Gateway interface | 💥💥💥💥 |
+| 💻 Linux | Operating layer | 💥💥💥 |
+| 🧠 AI / ML | Neural essence | 💥💥💥💥💥 |
+| 🎸 Audio Synthesis | Sonic warfare | 💥💥💥💥 |
+
+---
+
+<img src="neural_fire.gif" width="100%">
+
+### 📊 SYSTEM ANALYTICS
+
+🧠 Neural Computations: ██████████░░ 87%  
+💀 Demons Eliminated: ████████████░ 93%  
+🎵 Sound Engine Load: ████████████░ 91%  
+🔥 Rage Level: ██████████████░░ 96%
+
+![Stats](https://github-readme-stats.vercel.app/api?username=progtrum&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=00ff99&icon_color=ff3300&hide_border=true)
+
+---
+
+<img src="assets/divider.gif" width="100%">
+
+### ☠️ CONNECT TO THE UNDERNET
+
+[![Telegram](https://img.shields.io/badge/ENTER%20HELL-Telegram-ff0000?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/progtrum)
+
+<img src="assets/lava.gif" width="600"><br>
+
+<i>“The terminal never sleeps. The code never dies.”</i>
+
+</div>
