@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ru.pinterest.com/pin/531002612324358532" width="600" alt="Lava banner">
+<img src="lava.gif" width="600" alt="Lava banner">
 
 # 🩸 WELCOME TO PIXEL HELL 🩸  
 ### *"Rip and Code in 8 bits."*
