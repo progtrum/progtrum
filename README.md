@@ -66,7 +66,7 @@ Status:    ONLINE | 🔥 CPU Temp: 666°C
 
 ---
 
-<img src="assets/divider.gif" width="100%">
+<img src="divider.gif" width="100%">
 
 ### ☠️ CONNECT TO THE UNDERNET
 
