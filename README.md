@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="boot_sequence.gif" width="600">
+<img src="boot_sequence.gif" width="900">
 
 ## *"Rip and Code in 8 bits."*
 
@@ -27,7 +27,7 @@ Status:    ONLINE | 🔥 CPU Temp: 666°C
 
 ---
 
-<img src="smoke.gif" width="100%">
+<img src="terminal.gif" width="100%">
 
 ### 💻 TERMINAL LOGS
 > access /dev/hell_portal
