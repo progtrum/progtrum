@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/Wy7q7zK.gif" width="600" alt="Lava banner">
+<img src="https://cdn.pixabay.com/animation/2023/11/27/02/03/02-03-11-974_512.gif" width="600" alt="Lava banner">
 
 # 🩸 WELCOME TO PIXEL HELL 🩸  
 ### *"Rip and Code in 8 bits."*
@@ -18,13 +18,13 @@
 💻 Merging Sound, Intelligence, and Fire  
 🌋 *“Every commit is a spark in the endless pit.”*
 
-<img src="https://i.imgur.com/ypxq7yO.gif" width="300">
+<img src="https://media.tenor.com/HiBynv4EJ38AAAAC/pixel-fire.gif" width="300">
 
 </div>
 
 ---
 
-<img src="https://i.imgur.com/JhrJmKa.gif" width="100%" alt="Lava divider">
+<img src="https://media.tenor.com/h6xE-n7cahUAAAAC/fire-wall.gif" width="100%" alt="Lava divider">
 
 <div align="center">
 
@@ -32,16 +32,16 @@
 
 | Weapon | Power | Icon |
 |:------:|:------:|:------:|
-| Python | 💥💥💥💥💥 | <img src="https://i.imgur.com/fkl7Rzy.gif" width="32"> |
-| FastAPI | 💥💥💥💥 | <img src="https://i.imgur.com/YRCQeOx.gif" width="32"> |
-| Git | 💥💥💥 | <img src="https://i.imgur.com/bHkXr6o.gif" width="32"> |
-| Linux | 💥💥💥 | <img src="https://i.imgur.com/8owQvD4.gif" width="32"> |
+| Python | 💥💥💥💥💥 | <img src="https://media.tenor.com/LF0M5VgVQnIAAAAC/fireball-pixel.gif" width="32"> |
+| FastAPI | 💥💥💥💥 | <img src="https://media.tenor.com/GRa9QWXKnfwAAAAC/plasma-gun.gif" width="32"> |
+| Git | 💥💥💥 | <img src="https://media.tenor.com/f1XZCB5evdMAAAAC/bullet-pixel.gif" width="32"> |
+| Linux | 💥💥💥 | <img src="https://media.tenor.com/ZkFzLkE8KDMAAAAC/terminal-code.gif" width="32"> |
 
 </div>
 
 ---
 
-<img src="https://i.imgur.com/7hZf0Kw.gif" width="100%" alt="Smoke divider">
+<img src="https://media.tenor.com/yG35rWB6t6UAAAAC/pixel-smoke.gif" width="100%" alt="Smoke divider">
 
 <div align="center">
 
