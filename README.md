@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="lava.gif" width="600" alt="Lava banner">
-
 # 🩸 WELCOME TO PIXEL HELL 🩸  
 ### *"Rip and Code in 8 bits."*
 
@@ -18,8 +16,8 @@
 💻 Merging Sound, Intelligence, and Fire  
 🌋 *“Every commit is a spark in the endless pit.”*
 
-<img src="https://media.tenor.com/HiBynv4EJ38AAAAC/pixel-fire.gif" width="300">
 
+<img src="lava.gif" width="800" alt="Lava banner">
 </div>
 
 ---
