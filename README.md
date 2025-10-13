@@ -17,7 +17,7 @@
 🌋 *“Every commit is a spark in the endless pit.”*
 
 
-<img src="lava.gif" width="800" alt="Lava banner">
+<img src="lava.gif" width="1200" alt="Lava banner">
 </div>
 
 ---
