@@ -53,7 +53,7 @@ Status:    ONLINE | 🔥 CPU Temp: 666°C
 
 ---
 
-<img src="stats.gif" width="100%">
+<img src="stats.gif" width="50%">
 
 🧠 Neural Computations: ██████████░░ 87%  
 💀 Demons Eliminated: ████████████░ 93%  
