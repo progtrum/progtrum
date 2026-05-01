@@ -1,0 +1,22 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Signal divider</title>
+  <desc id="desc">Animated signal divider for GitHub README.</desc>
+  <defs>
+    <linearGradient id="fade" x1="80" y1="45" x2="1120" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#8B949E" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="0.75" stop-color="#8B949E" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .wave { stroke-dasharray: 18 18; animation: move 12s linear infinite; }
+      @keyframes move { to { stroke-dashoffset: -360; } }
+    </style>
+  </defs>
+  <rect width="1200" height="90" fill="#0D1117" rx="18"/>
+  <path class="wave" d="M80 45H360L382 28L410 62L438 34L468 45H1120" stroke="url(#fade)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="600" cy="45" r="4" fill="#F0F6FC">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

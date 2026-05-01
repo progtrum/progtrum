@@ -1,0 +1,35 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal panel</title>
+  <desc id="desc">Animated professional terminal panel for GitHub profile README.</desc>
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; }
+      .muted { fill: #8B949E; }
+      .text { fill: #F0F6FC; }
+      .ok { fill: #C9D1D9; }
+      .cursor { animation: blink 1.05s steps(1) infinite; }
+      .line1 { animation: reveal 7s steps(34) infinite; }
+      .line2 { animation: reveal 7s steps(41) infinite; animation-delay: .5s; }
+      .line3 { animation: reveal 7s steps(44) infinite; animation-delay: 1s; }
+      .line4 { animation: reveal 7s steps(37) infinite; animation-delay: 1.5s; }
+      @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+      @keyframes reveal { 0% { opacity: 0; } 16%, 100% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="258" rx="23" stroke="#30363D"/>
+  <rect x="0" y="0" width="1200" height="44" rx="24" fill="#161B22"/>
+  <path d="M0 44H1200" stroke="#30363D"/>
+  <circle cx="30" cy="22" r="6" fill="#F85149"/>
+  <circle cx="52" cy="22" r="6" fill="#D29922"/>
+  <circle cx="74" cy="22" r="6" fill="#3FB950"/>
+  <text x="100" y="28" class="mono muted" font-size="14">progtrum@workstation: ~/build</text>
+
+  <g class="mono" font-size="20" transform="translate(54 82)">
+    <text y="0" class="line1"><tspan class="muted">$</tspan><tspan class="text"> init ai-service --local --observable</tspan></text>
+    <text y="40" class="line2"><tspan class="muted">$</tspan><tspan class="text"> wire backend.api --fastapi --typed-output</tspan></text>
+    <text y="80" class="line3"><tspan class="muted">$</tspan><tspan class="text"> deploy linux-stack --nginx --systemd --logs</tspan></text>
+    <text y="120" class="line4"><tspan class="muted">&gt;</tspan><tspan class="ok"> build complete: clean, repeatable, production-ready</tspan><tspan class="cursor text">_</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PROGTRUM profile header</title>
+  <desc id="desc">Animated dark terminal header for a GitHub profile README.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070A"/>
+      <stop offset="0.45" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#020409"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 126) rotate(40) scale(330 220)">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 280) rotate(120) scale(280 190)">
+      <stop offset="0" stop-color="#8B949E" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#8B949E" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="stroke" x1="120" y1="58" x2="1080" y2="362" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#8B949E" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#8B949E" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="panelClip">
+      <rect x="82" y="58" width="1036" height="304" rx="30"/>
+    </clipPath>
+
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .dim { fill: #8B949E; }
+      .text { fill: #F0F6FC; }
+      .muted { fill: #C9D1D9; }
+      .hair { stroke: #30363D; stroke-width: 1; }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; transform-origin: center; }
+      .float { animation: float 8s ease-in-out infinite; }
+      .scan { animation: scan 7s linear infinite; }
+      .dash { stroke-dasharray: 10 16; animation: dash 16s linear infinite; }
+      .blink { animation: blink 1.1s steps(1) infinite; }
+      @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+      @keyframes scan { 0% { transform: translateY(-100px); opacity: 0; } 15% { opacity: .38; } 65% { opacity: .16; } 100% { transform: translateY(420px); opacity: 0; } }
+      @keyframes dash { to { stroke-dashoffset: -520; } }
+      @keyframes blink { 0%, 48% { opacity: 1; } 49%,100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <rect width="1200" height="420" fill="url(#glowA)"/>
+  <rect width="1200" height="420" fill="url(#glowB)"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="82" y="58" width="1036" height="304" rx="30" fill="#0D1117" fill-opacity="0.92" stroke="url(#stroke)"/>
+    <g clip-path="url(#panelClip)">
+      <path class="scan" d="M82 78H1118V132H82V78Z" fill="url(#glowA)"/>
+      <path class="dash" d="M130 314C258 252 310 340 424 281C543 219 612 267 714 221C818 174 894 204 1054 136" stroke="#F0F6FC" stroke-opacity="0.28" stroke-width="2" fill="none"/>
+      <path d="M82 104H1118" class="hair"/>
+      <circle cx="118" cy="82" r="7" fill="#F85149"/>
+      <circle cx="142" cy="82" r="7" fill="#D29922"/>
+      <circle cx="166" cy="82" r="7" fill="#3FB950"/>
+    </g>
+  </g>
+
+  <g class="float">
+    <text x="126" y="154" class="mono dim" font-size="18" letter-spacing="2">~/profile/kernel</text>
+    <text x="124" y="220" class="sans text" font-size="72" font-weight="800" letter-spacing="8">PROGTRUM</text>
+    <text x="130" y="262" class="mono muted" font-size="22">AI systems · backend engineering · infrastructure automation</text>
+    <text x="130" y="302" class="mono dim" font-size="18">status: operational</text>
+    <rect x="335" y="286" width="12" height="24" rx="2" fill="#F0F6FC" class="blink"/>
+  </g>
+
+  <g transform="translate(835 135)">
+    <rect x="0" y="0" width="218" height="152" rx="22" fill="#010409" stroke="#30363D"/>
+    <text x="24" y="42" class="mono dim" font-size="15">runtime</text>
+    <text x="24" y="76" class="mono text" font-size="30" font-weight="700">BUILD</text>
+    <text x="24" y="108" class="mono muted" font-size="15">python / linux / ai</text>
+    <path class="pulse" d="M24 126H58L69 98L85 138L100 116H194" stroke="#F0F6FC" stroke-opacity="0.9" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

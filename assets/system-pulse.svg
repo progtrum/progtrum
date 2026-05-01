@@ -1,0 +1,45 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System pulse metrics</title>
+  <desc id="desc">Animated monochrome metric bars for GitHub README.</desc>
+  <defs>
+    <linearGradient id="line" x1="90" y1="0" x2="1110" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8B949E" stop-opacity="0.45"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; }
+      .label { fill: #8B949E; font-size: 16px; }
+      .value { fill: #F0F6FC; font-size: 18px; font-weight: 700; }
+      .barBg { fill: #161B22; }
+      .bar { fill: url(#line); transform-origin: left center; animation: load 3.8s ease-in-out infinite; }
+      .bar2 { animation-delay: .3s; }
+      .bar3 { animation-delay: .6s; }
+      .bar4 { animation-delay: .9s; }
+      @keyframes load { 0%,100% { transform: scaleX(.92); opacity: .8; } 50% { transform: scaleX(1); opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1200" height="180" rx="24" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="178" rx="23" stroke="#30363D"/>
+
+  <g class="mono" transform="translate(70 36)">
+    <text x="0" y="18" class="label">backend architecture</text>
+    <rect x="260" y="2" width="780" height="18" rx="9" class="barBg"/>
+    <rect x="260" y="2" width="690" height="18" rx="9" class="bar"/>
+    <text x="1060" y="18" class="value">88%</text>
+
+    <text x="0" y="58" class="label">ai tooling</text>
+    <rect x="260" y="42" width="780" height="18" rx="9" class="barBg"/>
+    <rect x="260" y="42" width="724" height="18" rx="9" class="bar bar2"/>
+    <text x="1060" y="58" class="value">93%</text>
+
+    <text x="0" y="98" class="label">linux operations</text>
+    <rect x="260" y="82" width="780" height="18" rx="9" class="barBg"/>
+    <rect x="260" y="82" width="655" height="18" rx="9" class="bar bar3"/>
+    <text x="1060" y="98" class="value">84%</text>
+
+    <text x="0" y="138" class="label">audio systems</text>
+    <rect x="260" y="122" width="780" height="18" rx="9" class="barBg"/>
+    <rect x="260" y="122" width="704" height="18" rx="9" class="bar bar4"/>
+    <text x="1060" y="138" class="value">90%</text>
+  </g>
+</svg>
